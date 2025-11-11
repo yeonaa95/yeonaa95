@@ -4,17 +4,17 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-**저의 'TIL'도 구경오실래요?**
-클릭해주세요 👉🏻
+<div>
 
-<div style="display: flex; justify-content: center;">
-
-<a href="https://www.notion.so/Today-I-Learned-29953392dbc08079a1c6ffc447ce0faa">
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img style="width: 100px; height: 100px;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</a>
+  **저의 'TIL'도 구경오실래요?**
+  클릭해주세요 👉🏻
 
 </div>
+
+  <a href="https://www.notion.so/Today-I-Learned-29953392dbc08079a1c6ffc447ce0faa">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+    <img style="width: 100px; height: 100px; display: flex; justify-content: center;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </a>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div>
 
-## <span style="color: #9664B4">🧚🏻 Top Langs</span>
+### <span style="color: #9664B4">🧚🏻 Top Langs</span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95)
 
