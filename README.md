@@ -1,12 +1,11 @@
 ![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
 
-[![Hits](https://hits.sh/github.com/yeonaa95.svg?color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img style="width: 50px; height: 50px; position: absolute; top: 250px; left: 120px;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img style="width: 55px; height: 55px;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+## [![Hits](https://hits.sh/github.com/yeonaa95.svg?color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
 
 ![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px&)
 
@@ -23,10 +22,13 @@
 # 🔥🦾 Skills
 
 ## 💻 Lang and Frameworks
+
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ## 🛠️ Infra and Tools
+
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white) ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) ![Zoom](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white) 
 
 ## 🙋 Contact me
+
 ![Gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
