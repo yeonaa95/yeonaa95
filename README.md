@@ -4,13 +4,13 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-<div>
-  
-  <strong style="font-size: 30px;">저의 'TIL'도 구경오실래요?</strong>
+  <div>
+    
+    <strong style="font-size: 30px;">저의 'TIL'도 구경오실래요?</strong>
 
-  <b style="font-size: 25px; color: #9664B4">클릭해주세요 👉🏻</b>
+    <b style="font-size: 25px; color: #9664B4">클릭해주세요 👉🏻</b>
 
-</div>
+  </div>
 
   <a style="display: flex; justify-content: center;" href="https://www.notion.so/Today-I-Learned-29953392dbc08079a1c6ffc447ce0faa">
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -24,14 +24,14 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; background-color: #09ffffff;">
 
-![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px&)
+  ![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px&)
 
 
   <div style="width: 100%; height: auto; background-color: #b4ffffff;">
 
-  ### <span style="color: #9664B4">🧚🏻 Top Langs</span>
+    ### <span style="color: #9664B4">🧚🏻 Top Langs</span>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&border_color=9664B4&border_radius=25px&)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&border_color=9664B4&border_radius=25px&)
 
   </div>
 
