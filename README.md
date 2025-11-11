@@ -1,8 +1,11 @@
 ![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
 
+[![Hits](https://hits.sh/github.com/yeonaa95.svg?color=9664b4&labelColor=9f9f9f)](https://hits.sh/github.com/yeonaa95/)
+
 [![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95)](https://github.com/yeonaa95/github-readme-stats)
 
-[![Hits](https://hits.sh/github.com/yeonaa95.svg?color=9664b4&labelColor=9f9f9f)](https://hits.sh/github.com/yeonaa95/)
+<br>
+<br>
 
 ### 🔥🦾 Skills 
 **👧🏻💻 Lang and Frameworks**<br>
