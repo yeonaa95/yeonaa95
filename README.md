@@ -2,12 +2,14 @@
 
 ># <span style="color: #9664B4">WELCOME 🤩!!</span>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
 
 <div>
+
   <strong style="font-size: 30px;">저의 'TIL'도 구경오실래요?</strong>
-  <br>
+  
   <b style="font-size: 25px; color: #9664B4">클릭해주세요 👉🏻</b>
+
 </div>
 
   <a style="width: 100px; height: 100px;" href="https://www.notion.so/Today-I-Learned-29953392dbc08079a1c6ffc447ce0faa">
@@ -20,12 +22,12 @@
 
 ## [![Hits](https://hits.sh/github.com/yeonaa95.svg?color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
 
-<div style="display: flex; justify-content: space-between; background-color: #09ffffff;">
+<div style="display: flex;">
 
 ![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px&)
 
 
-  <div style="width: 100%; height: auto; background-color: #b4ffffff;">
+  <div style="width: 100px; height: 100px;">
 
   ### <span style="color: #9664B4">🧚🏻 Top Langs</span>
 
