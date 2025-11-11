@@ -2,14 +2,51 @@
 
 [![Hits](https://hits.sh/github.com/yeonaa95.svg?color=9664b4&labelColor=9f9f9f)](https://hits.sh/github.com/yeonaa95/)
 
-[![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95)](https://github.com/yeonaa95/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img style="width: 50px; height: 50px;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
+
+
+
+![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent)
+
+
+![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&bg_color=00000000)
+
+
+[![Yeonaa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yeonaa95/github-readme-stats#gh-dark-mode-only)
+[![Yeonaa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yeonaa95/github-readme-stats#gh-light-mode-only)
+
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark), (title_color: #9664B4)"
+    url="(title_color: #9664B4)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true" 
+    url="(title_color: #9664B4)"
+  />
+</picture>
+
+
+
+# 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95)
 
 <br>
 <br>
 
 ---
 
-### 🔥🦾 Skills
+## 🔥🦾 Skills
 **👧🏻💻 Lang and Frameworks**<br>
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) 
 
