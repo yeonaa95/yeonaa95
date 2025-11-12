@@ -4,12 +4,7 @@
 
 <div align="right">
 
-<h3 style="color: #9664B4">Click on the TIL of 연화! ▼</h3>
-
-<a href="https://www.notion.so/Today-I-Learned-29953392dbc08079a1c6ffc447ce0faa">
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img style="width: 100px; height: 100px; margin-right: 50px;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</a>
+<h3 style="color: #9664B4">Click on the TIL of 연화! ▶</h3><a href="https://www.notion.so/Today-I-Learned-29953392dbc08079a1c6ffc447ce0faa"><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"><img style="width: 100px; height: 100px;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"></a>
 
 </div>
 
