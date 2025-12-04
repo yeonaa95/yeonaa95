@@ -1,6 +1,6 @@
 ![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
 
-> <h1 style="color: #9664B4">WELCOME 🤩!!</h1>
+> # WELCOME 🤩!!
 
 <div align="right">
 
@@ -23,7 +23,7 @@
 
 <div align="right" width="34%">
 
-<h1 style="color: #9664B4">🧚🏻 Top Langs</h1>
+## 🧚🏻 Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px&)
 
