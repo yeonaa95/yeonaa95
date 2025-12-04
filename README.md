@@ -15,9 +15,13 @@
 
 ## [![Hits](https://hits.sh/github.com/yeonaa95.svg?view=today-total&color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
 
+<div align="left" width="50%">
+
 ![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px&)
 
-<div align="right">
+</div>
+
+<div align="right" width="34%">
 
 <h1 style="color: #9664B4">🧚🏻 Top Langs</h1>
 
@@ -34,7 +38,7 @@
 
 ## 👩🏻‍💻 Lang and Frameworks
 
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-00BCFF.svg?&style=for-the-badge)
 
 ## 👩🏻‍🔧 Infra and Tools
 
