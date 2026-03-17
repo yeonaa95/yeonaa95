@@ -1,6 +1,6 @@
 ![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
 
-![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Frontend+Developer;Always+Learning...;Welcome+to+my+GitHub!&animation=typing&color=9664B4&size=28)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=[{"text":"Frontend+Developer"},{"text":"Always+Learning..."},{"text":"Welcome+to+my+GitHub!"}]&color=9664B4&fontSize=28)](https://typingsvg.vercel.app)
 
 <br>
 <br>
