@@ -1,6 +1,9 @@
 ![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
 
-> # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=9664B4&pause=1000&lines=Frontend+Developer+🧚🏻;Always+Learning...👩🏻‍💻;Welcome+to+my+GitHub+🤩!!)](https://git.io/typing-svg)
+wjss# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=9664B4&pause=1000&lines=Frontend+Developer+🧚🏻;Always+Learning...👩🏻‍💻;Welcome+to+my+GitHub+🤩!!)](https://git.io/typing-svg)
+
+<br>
+<br>
 
 ## [![202603](https://img.shields.io/badge/TIL_202603-9664B4?style=for-the-badge)](./202603)
 
@@ -23,17 +26,21 @@
 | [![20260323](https://img.shields.io/badge/23-AAA?)](https://github.com/yeonaa95/TIL/blob/main/202603/20260323.md) | [![20260324](https://img.shields.io/badge/24-AAA?)](https://github.com/yeonaa95/TIL/blob/main/202603/20260324.md) | [![20260325](https://img.shields.io/badge/25-AAA?)](https://github.com/yeonaa95/TIL/blob/main/202603/20260325.md) | [![20260326](https://img.shields.io/badge/26-AAA?)](https://github.com/yeonaa95/TIL/blob/main/202603/20260326.md) | [![20260327](https://img.shields.io/badge/27-AAA?)](https://github.com/yeonaa95/TIL/blob/main/202603/20260327.md) |
 | [![20260330](https://img.shields.io/badge/30-AAA?)](https://github.com/yeonaa95/TIL/blob/main/202603/20260330.md) | [![20260331](https://img.shields.io/badge/31-AAA?)](https://github.com/yeonaa95/TIL/blob/main/202603/20260331.md) |                                                                                                                   |                                                                                                                   |                                                                                                                   |
 
+<br>
+<br>
+
 ## [![Hits](https://hits.sh/github.com/yeonaa95.svg?style=for-the-badge&view=today-total&color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px" width="60%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px" width="33%" />
 
 </div>
 
----
+<br>
+<br>
 
 # ![Skills](https://img.shields.io/badge/🔥🦾_Skills-9664B4?style=for-the-badge)
 
