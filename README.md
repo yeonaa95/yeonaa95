@@ -1,6 +1,6 @@
 ![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
 
-![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Frontend+Developer;Always+Learning...;Welcome+to+my+GitHub!&animation=blink&color=9664B4&size=28)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=28&pause=1000&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Aspiring+Frontend+Developer;Started+as+a+Web+Publisher;Now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -42,7 +42,7 @@
 <br>
 <br>
 
-# ![Skills](https://img.shields.io/badge/🔥🦾-Skills-9664B4?style=for-the-badge&labelColor=9f9f9f)
+# ![Skills](https://img.shields.io/badge/🔥🦾-Skills-9664B4?style=for-the-badge&labelColor=9f9f9f&logoColor=white)
 
 ## 👩🏻‍💻 Lang and Frameworks
 
