@@ -2,7 +2,11 @@
 
 > # WELCOME 🤩!!
 
-<div align="right" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=9664B4&size=22&lines=Frontend+Developer+🧚🏻;Always+Learning...;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeonaa95&theme=discord&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeonaa95&bg_color=transparent&color=9664B4&line=9664B4&point=9664B4&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 연화의 'TIL' 바로가기 ▼
 
@@ -10,8 +14,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <img style="width: 170px; height: 160px;" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </a>
-
-</div>
 
 ## [![Hits](https://hits.sh/github.com/yeonaa95.svg?view=today-total&color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
 
