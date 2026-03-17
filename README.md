@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Frontend+Developer;Always+Learning...;Welcome+to+my+GitHub!&animation=typing&color=9664B4&size=28&cursor=true)
 
-![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Frontend+Developer;Always+Learning...;Welcome+to+my+GitHub!&animation=blink&color=9664B4&size=28)
-
 <br>
 <br>
 
