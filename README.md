@@ -15,7 +15,7 @@
 
 ## [![Hits](https://hits.sh/github.com/yeonaa95.svg?view=today-total&color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
 
-<table>
+<table border="0">
   <tr>
     <td>
 
@@ -23,8 +23,6 @@
 
 </td>
     <td>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=9664B4&size=20&lines=🧚🏻+Top+Langs" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px&)
 
