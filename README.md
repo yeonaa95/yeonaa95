@@ -17,16 +17,16 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td valign="top" border="0">
 
 ![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px&)
 
-</td>
-    <td>
+  </td>
+    <td valign="top" border="0">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px&)
 
-</td>
+  </td>
   </tr>
 </table>
 
