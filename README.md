@@ -2,7 +2,7 @@
 
 > # WELCOME 🤩!!
 
-<div align="right">
+<div align="right" width="100%">
 
 ### 연화의 'TIL' 바로가기 ▼
 
@@ -15,19 +15,22 @@
 
 ## [![Hits](https://hits.sh/github.com/yeonaa95.svg?view=today-total&color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
 
-<div align="left" width="50%">
+<table>
+  <tr>
+    <td>
 
 ![Yeonaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=40px&)
 
-</div>
+</td>
+    <td>
 
-<div align="right" width="34%">
-
-## 🧚🏻 Top Langs
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=9664B4&size=20&lines=🧚🏻+Top+Langs" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px&)
 
-</div>
+</td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -38,7 +41,7 @@
 
 ## 👩🏻‍💻 Lang and Frameworks
 
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-00BCFF.svg?&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-00BCFF.svg?&style=for-the-badge&logo=tailwind&logoColor=white)
 
 ## 👩🏻‍🔧 Infra and Tools
 
