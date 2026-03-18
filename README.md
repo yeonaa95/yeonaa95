@@ -1,8 +1,8 @@
 ![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=28&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=24&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
 
-# [![TIL](https://img.shields.io/badge/TIL-202603-9664B4?style=for-the-badge&labelColor=9f9f9f)](./202603)
+# [![TIL](https://img.shields.io/badge/TIL-202603-9664B4?style=for-the-badge&labelColor=AAA)](./202603)
 
 ```
                   ╭ ◜◝ ͡ ◜◝ ͡  ◜◝ ͡ ◜◝ ͡  ◜◝ ╮
@@ -26,24 +26,25 @@
 <br>
 <br>
 
-# [![Hits](https://hits.sh/github.com/yeonaa95.svg?style=for-the-badge&view=today-total&color=9664b4&labelColor=9f9f9f&)](https://hits.sh/github.com/yeonaa95)
+# [![Hits](https://hits.sh/github.com/yeonaa95.svg?style=for-the-badge&view=today-total&color=9664b4&labelColor=AAA)](https://hits.sh/github.com/yeonaa95)
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=25px" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=22px" width="64%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonaa95&theme=transparent&title_color=9664B4&border_color=9664B4&border_radius=25px" width="33%" />
 
 </div>
 
 <br>
 <br>
 
-# ![Skills](https://img.shields.io/badge/🔥🦾-Skills-9664B4?style=for-the-badge&labelColor=9f9f9f&logoColor=white)
+# ![Skills](https://img.shields.io/badge/Skills-9664B4?style=for-the-badge&labelColor=AAA&logoColor=white&logoWidth=30&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEwIDJjMC0uODggMS4wNTYtMS4zMzEgMS42OTItLjcyMmMxLjk1OCAxLjg3NiAzLjA5NiA1Ljk5NSAxLjc1IDkuMTJsLS4wOC4xNzQuMDEyLjAwM2MuNjI1LjEzMyAxLjIwMy0uNDMgMi4zMDMtMi4xNzNsLjE0LS4yMjRhMSAxIDAgMCAxIDEuNTgyLS4xNTNjMS4zMzQgMS40MzUgMi42MDEgNC4zNzcgMi42MDEgNi4yN2MwIDQuMjY1LTMuNTkxIDcuNzA1LTggNy43MDVzLTgtMy40NC04LTcuNzA2YzAtMi4yNTIgMS4wMjItNC43MTYgMi42MzItNi4zMDFsLjYwNS0uNTg5Yy4yNDEtLjIzNi40MzQtLjQzLjYxOC0uNjI0YzEuNDMtMS41MTIgMi4xNDUtMi45MjQgMi4xNDUtNC43OCIvPjwvc3ZnPg==)
 
 ## 👩🏻‍💻 Lang and Frameworks
 
-![HTML5](https://img.shields.io/badge/html5-9664B4.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-9664B4.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-9664B4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-B992D4.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-B992D4.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-B992D4.svg?&style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/vite-D4B8E8.svg?&style=for-the-badge&logo=vite&logoColor=white) ![TanStack Query](https://img.shields.io/badge/tanstack_query-D4B8E8.svg?&style=for-the-badge&logo=reactquery&logoColor=white) ![Zod](https://img.shields.io/badge/zod-D4B8E8.svg?&style=for-the-badge&logo=zod&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-D4B8E8.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-6B3F88.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-6B3F88.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-6B3F88.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-9664B4.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-9664B4.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-9664B4.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-B992D4.svg?&style=for-the-badge&logo=vite&logoColor=white) ![TanStack Query](https://img.shields.io/badge/tanstack_query-B992D4.svg?&style=for-the-badge&logo=reactquery&logoColor=white) ![Zod](https://img.shields.io/badge/zod-B992D4.svg?&style=for-the-badge&logo=zod&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-B992D4.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 👩🏻‍🔧 Infra and Tools
 
