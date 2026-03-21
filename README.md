@@ -1,16 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=20&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=20&pause=1000&width=800&height=190&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🐥;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+💜)](https://git.io/typing-svg)
 
 <div align="center">
 <table>
   <tr>
-    <th><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208&contribution-view=false" width="250" height="120"/></td>
-    <th><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095209&contribution-view=false" width="250" height="120"/></td>
-    <th><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823249084795667459&contribution-view=false" width="250" height="120"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208&contribution-view=false" width="250" height="100"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095209&contribution-view=false" width="250" height="100"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823249084795667459&contribution-view=false" width="250" height="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823250709882945558&contribution-view=false" width="250" height="120"/></td>
-    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=816903396855992381&contribution-view=false" width="250" height="120"/></td>
-    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=822273268494459694&contribution-view=false" width="250" height="120"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=821789714060767431&contribution-view=false" width="250" height="100"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823250709882945558&contribution-view=false" width="250" height="100"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=816903396855992381&contribution-view=false" width="250" height="100"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823278653405744714&contribution-view=false" width="250" height="100"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=822273268494459694&contribution-view=false" width="250" height="100"/></td>
+    <td></td>
   </tr>
 </table>
 </div>
