@@ -1,17 +1,15 @@
-<table>
-  <tr>
-    <td>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=24&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
 
-</td>
-<td>
-
-<a href="https://github.com/devxb/gitanimals">
-   <img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208" width="130" height="400"/><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823250709882945558" width="130" height="400"/><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=816903396855992381" width="130" height="400"/>
-</a>
-
-</td>
+<table>
+  <tr>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208" width="200" height="120"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095209" width="200" height="120"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823249084795667459" width="200" height="120"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823250709882945558" width="200" height="120"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=816903396855992381" width="200" height="120"/></td>
+    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=822273268494459694" width="200" height="120"/></td>
   </tr>
 </table>
 
