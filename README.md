@@ -8,9 +8,7 @@
 <td>
 
 <a href="https://github.com/devxb/gitanimals">
-   <img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208" width="150" height="400"/>
-   <img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823250709882945558" width="150" height="400"/>
-   <img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=816903396855992381" width="150" height="400"/>
+   <img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208" width="130" height="400"/><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823250709882945558" width="130" height="400"/><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=816903396855992381" width="130" height="400"/>
 </a>
 
 </td>
