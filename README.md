@@ -1,6 +1,8 @@
-![header image](https://capsule-render.vercel.app/api?type=blur&height=200&color=9664B4&text=김연화입니다.&reversal=false&fontSize=30&fontAlign=55&rotate=0&descSize=25&desc=프론트엔드를%20꿈꾸는&descAlignY=40&fontAlignY=60&descAlign=48&fontColor=333)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=18&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=24&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/yeonaa95"/>
+</a>
 
 # [![TIL](https://img.shields.io/badge/TIL-202603-9664B4?style=for-the-badge&labelColor=AAA)](./202603)
 
