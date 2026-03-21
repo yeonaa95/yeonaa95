@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=24&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=20&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
 
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208&contribution-view=false" width="250" height="120"/></td>
-    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095209&contribution-view=false" width="250" height="120"/></td>
-    <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823249084795667459&contribution-view=false" width="250" height="120"/></td>
+    <th><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095208&contribution-view=false" width="250" height="120"/></td>
+    <th><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=792057802153095209&contribution-view=false" width="250" height="120"/></td>
+    <th><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823249084795667459&contribution-view=false" width="250" height="120"/></td>
   </tr>
   <tr>
     <td><img src="https://render.gitanimals.org/lines/yeonaa95?pet-id=823250709882945558&contribution-view=false" width="250" height="120"/></td>
@@ -14,6 +14,9 @@
   </tr>
 </table>
 </div>
+
+<br>
+<br>
 
 # [![TIL](https://img.shields.io/badge/TIL-202603-9664B4?style=for-the-badge&labelColor=AAA)](./202603)
 
@@ -41,7 +44,7 @@
 
 # [![Hits](https://hits.sh/github.com/yeonaa95.svg?style=for-the-badge&view=today-total&color=9664b4&labelColor=AAA)](https://hits.sh/github.com/yeonaa95)
 
-<div align="left">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeonaa95&show_icons=true&theme=transparent&icon_color=9664B4&title_color=9664B4&border_color=9664B4&border_radius=22px" width="64%" />
 
@@ -67,6 +70,7 @@
 
 ![Gmail](https://img.shields.io/badge/gmail-9664B4.svg?&style=for-the-badge&logo=gmail&logoColor=white) ![Notion](https://img.shields.io/badge/notion-9664B4.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
+<br>
 <br>
 <br>
 
