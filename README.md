@@ -1,8 +1,19 @@
+<table>
+  <tr>
+    <td>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&color=9664B4&size=18&pause=1000&width=800&height=200&multiline=true&lines=Hi+there!+I'm+Yeonhwa+🧚🏻;Started+as+a+Web+Publisher,;now+growing+into+React+%26+TypeScript;Building+up+step+by+step+📚;Let's+grow+together+🔥)](https://git.io/typing-svg)
+
+</td>
+<td>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/yeonaa95"/>
 </a>
+
+</td>
+  </tr>
+</table>
 
 # [![TIL](https://img.shields.io/badge/TIL-202603-9664B4?style=for-the-badge&labelColor=AAA)](./202603)
 
